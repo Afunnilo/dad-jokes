@@ -1,7 +1,7 @@
 # dad-jokes
 Fun website terrible dad joes built with Nuxtjs.
 It uses the api from https://icanhazdadjoke.com/
-hosted on netlify :
+
 ## Build Setup
 
 ```bash
