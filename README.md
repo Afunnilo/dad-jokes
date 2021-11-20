@@ -1,5 +1,5 @@
 # dad-jokes
-Fun website terrible dad joes built with Nuxtjs.
+Fun website with terrible dad jokes built with Nuxtjs.
 It uses the api from https://icanhazdadjoke.com/
 
 ## Build Setup
