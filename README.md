@@ -1,5 +1,5 @@
 # dad-jokes
-Fun website for corn dad joes built with Nuxtjs.
+Fun website terrible dad joes built with Nuxtjs.
 It uses the api from https://icanhazdadjoke.com/
 hosted on netlify :
 ## Build Setup
