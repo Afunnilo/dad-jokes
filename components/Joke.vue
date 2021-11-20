@@ -16,6 +16,12 @@ export default {
 <style>
 .joke{
     padding:1rem;
-    border:1px dotted #ccc;
+    border-top:1px solid #4682B4;
+}
+.joke:hover{
+    border: 1px solid #4682B4;
+    background: #4682B4;
+    border-radius:5px;
+    border-bottom: 0;
 }
 </style>

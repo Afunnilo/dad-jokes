@@ -30,22 +30,23 @@ export default {
     align-items: center;
     margin-bottom: 1rem;
     padding-bottom: 1rem;
-    border-bottom:1px dotted #ccc;
+
 }
 .header.title{
-    font-size: 3rem;
-    color:grey;
+    font-size: 4rem;
+    color: black;
     
 }
 .header > h1{
     font-family: 'Indie Flower', cursive;
+    font-weight: bold;
 }
 .header ul {
     display: flex;
 }
 .header a{
     display:inline-block;
-    background: #333;
+    background: #4682B4;
     color:#fff;
     padding:0.3rem 1rem;
     margin-right:0.5rem;

@@ -1,6 +1,6 @@
 <template>
 <div>
-   <nuxt-link to='/jokes'>Back to jokes</nuxt-link>
+   <nuxt-link class="back" to='/jokes'>Back to jokes</nuxt-link>
    <h2>{{joke}}</h2>
    <hr>
    <small>Joke ID : {{$route.params.id}} </small>
@@ -47,5 +47,9 @@ export default {
 </script>
 
 <style>
-
+.back{
+    border: 1px solid #4682B4;
+    border-radius: 2px;
+    padding:4px 4px;
+}
 </style>

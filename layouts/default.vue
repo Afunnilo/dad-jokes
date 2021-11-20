@@ -24,10 +24,10 @@ body{
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-size:1rem;
   line-height:1.6;
-  background:#f4f4f4;
+  background: #F0F8FF;
 }
 a{
-  color:#666;
+  color:black;
   text-decoration: none;
 }
 ul{
@@ -35,10 +35,11 @@ ul{
 }
 .container{
   max-width: 800px;
-  margin:2em auto;
+  margin-left: auto;
+  margin-right: auto;
   overflow:hidden;
   padding:1rem 2rem;
-  background: #fff;
+  background: #F0F8FF;
 
 }
 </style>
