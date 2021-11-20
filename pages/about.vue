@@ -1,7 +1,7 @@
 <template>
   <div>
       <h1>About Dad Jokes</h1>
-      <p>App that dispays dad jokes, made with NUXTJS</p>
+      <p>App that displays dad jokes, made with NUXTJS</p>
       <ul>
           <li>
               <a class='link' href="https://icanhazdadjoke.com/api" target='_blank'>API source</a>
