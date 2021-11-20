@@ -2,6 +2,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'dad-jokes',
+    target: 'static',
     htmlAttrs: {
       lang: 'en'
     },
